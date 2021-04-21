@@ -84,5 +84,4 @@ const jsonfile = {
   writeFile,
   writeFileSync,
 };
-// esto es un comentario de prueba
 module.exports = jsonfile;
